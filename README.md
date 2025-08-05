@@ -8,13 +8,18 @@ EC11 Rotary encoder
 
 I have just recently started with Fusion360, and have never interacted with KiCAD or firmware before, so most of this design process was pretty new to me! However, I found it a great first project (both in terms of KiCAD and Fusion), and a great way for me to familiarize myself with both KiCAD and Fusion360.
 
-# IMAGES:
-!!! PLEASE REFERENCE THE IMAGES FOLDER FOR SCREENSHOTS OF MY CAD AND PCB DESIGN !!!
-
 # CAD Model:
+<img width="445" height="533" alt="Doughpad_Case_CAD_Design" src="https://github.com/user-attachments/assets/7ff9ab6d-ad45-442a-b48c-6267886bab97" />
+
 I made my CAD model in Fusion360, and it has a basic top and bottom for the macropad. Everything fits inside the top and bottom case parts.
 
 # PCB Design:
+Schematic:
+<img width="850" height="442" alt="PCD_Schematic" src="https://github.com/user-attachments/assets/2bd3ff07-510a-4803-a1ca-04e2cb11da70" />
+
+PCB:
+<img width="333" height="397" alt="PCB" src="https://github.com/user-attachments/assets/676fad18-7533-4916-9919-1f0534a8412b" />
+
 I designed my PCB on KiCAD. 
 
 # Firmware:
