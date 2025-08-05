@@ -27,14 +27,25 @@ I used KMK for my firmware.
 The rotary encoder changes volume, and each of the 8 keys has a specific function, some were just there from the original code, while others I added because I thought that they would be useful. (COPY & PASTE).
 
 BOM:
-8x Cherry MX Switches
-2x SK6812 MINI Leds
-1x XIAO RP2040
-1x EC11 Rotary Encoder
-8x DSA Keycaps
-4 x M3x16mm screws
-4 x M3 hex nuts
-9 x Through-hole 1N4148 Diodes
-1 x Case (2 printed parts)
+Amount| Item                      |
+-----------------------------------
+  8   |Cherry MX Switches         |
+-----------------------------------
+  2   |SK6812 MINI Leds           |
+-----------------------------------
+  1   |XIAO RP2040                |
+-----------------------------------
+  1   |EC11 Rotary Encoder        |
+-----------------------------------
+  8   |DSA Keycaps                |
+-----------------------------------
+  4   |M3x16mm screws             |
+-----------------------------------
+  4   |M3 hex nuts                |
+-----------------------------------
+  9   |Through-hole 1N4148 Diodes |
+-----------------------------------
+  1   |Case (2 printed parts)     |
+-----------------------------------
 
 
